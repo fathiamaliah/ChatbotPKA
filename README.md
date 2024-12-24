@@ -1,1 +1,1 @@
-Untuk menjalankan web app, mohon untuk menjalankan seluruh kode yang ada. Pada bagian akhir akan mendapatkan URL ngrok yang akan mengalihkan ke webapp streamlit yang dapat digunakan sebagai GUI untuk menggunakan chatbot
+Untuk menjalankan chatbot, mohon untuk menjalankan seluruh kode yang ada. Pada bagian akhir akan mendapatkan URL ngrok yang akan mengalihkan ke webapp streamlit yang dapat digunakan sebagai GUI untuk menggunakan chatbot
